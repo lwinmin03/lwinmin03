@@ -18,9 +18,8 @@ I enjoy working across **backend, frontend, and DevOps**, and I’m continuously
 ### 🌐 Socials
 
 <p align="left">
-  <a href="https://www.github.com/lwinmin03" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-  </a>
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" fill="white" width="32" height="32" alt="GitHub" />
+
 </p>
 
 ---
@@ -62,6 +61,6 @@ I enjoy working across **backend, frontend, and DevOps**, and I’m continuously
 ---
 
 ### 📊 GitHub Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lwinmin03&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lwinmin03&theme=aura_dark)
-       ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lwinmin03&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lwinmin03&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lwinmin03&theme=default)
+       ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lwinmin03&theme=default)
