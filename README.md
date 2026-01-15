@@ -1,7 +1,7 @@
 Hi 👋 I’m Lwin Min Thein
 ======================
 
-Software Engineer | Problem Solver | Lifelong Learner
+Software Engineer
 -----------------------------------------------------
 
 I’m a **Software Engineer** passionate about building scalable applications, learning new technologies, and exploring the world through code.  
