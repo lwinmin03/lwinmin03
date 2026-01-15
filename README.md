@@ -5,7 +5,7 @@ Software Engineer | Problem Solver | Lifelong Learner
 -----------------------------------------------------
 
 I’m a **Software Engineer** passionate about building scalable applications, learning new technologies, and exploring the world through code.  
-I enjoy working across **backend, frontend, and DevOps**, and I’m continuously improving my skills to become a well-rounded engineer.
+I enjoy working across **backend, frontend** and I’m continuously improving my skills to become a well-rounded engineer.
 
 - 🌍 Explorer of technology & the world  
 - 🚀 Interested in system design, clean architecture, and performance  
