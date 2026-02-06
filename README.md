@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at City Properties <br>🌱 I’m currently learning Spring Boot
+🔭 I’m currently working at City Properties <br>🌱 I’m currently learning Nest Js
 
 
 # 💻 Tech Stack:
