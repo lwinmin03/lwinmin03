@@ -5,8 +5,7 @@
 ---
 
 <p align="center">
-  <img width="45%" src ="https://github-readme-stats.vercel.app/api?username=lwinmin03&theme=react&show_icons=true&hide_border=true&count_private=true">
-  <img width="45%" src ="https://github-readme-streak-stats.herokuapp.com/?user=lwinmin03&theme=react&hide_border=true">
+  
 </p>
 
 <p align="center">
@@ -32,4 +31,3 @@
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lwinmin03)](https://github.com/lwinmin03/github-profile-trophy)
