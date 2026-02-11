@@ -1,15 +1,35 @@
-# 💫 About Me:
-🔭 I’m currently working at City Properties <br>🌱 I’m currently learning Nest Js
+## Hi 👋, I'm Lwin Min Thein</h1>
 
-
-# 💻 Tech Stack:
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lwinmin03&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=lwinmin03&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lwinmin03&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+> I am a Full-Stack Developer from Yangon,Myanmar. I am currently working on The Paradance Technology.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lwinmin03&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img width="45%" src ="https://github-readme-stats.vercel.app/api?username=lwinmin03&theme=react&show_icons=true&hide_border=true&count_private=true">
+  <img width="45%" src ="https://github-readme-streak-stats.herokuapp.com/?user=lwinmin03&theme=react&hide_border=true">
+</p>
+
+<p align="center">
+  <a href="https://github.com/lwinmin03">
+    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lwinmin03&exclude=HTML,CSS&theme=react&layout=compact&hide_border=true"
+      alt="thanthtooaung-coding :: Top Langs by repo" />
+    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lwinmin03&exclude=HTML,CSS&theme=react&layout=compact&hide_border=true"
+      alt="lwinmin03 :: Top Langs by commit" />
+  </a>
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lwinmin03&label=Profile%20views&color=0e75b6&style=flat" alt="thanthtooaung-coding" /> </p>
+
+- 🔭 I’m currently working on **Paradance**
+
+- 🌱 I’m currently learning **Cloud Computing**
+
+- 👯 I’m looking to collaborate on **Full-Stack Web Project**
+
+- 📫 How to reach me **lwinthein679@gmail.com**
+
+<br/>
+
+<br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=lwinmin03)](https://github.com/lwinmin03/github-profile-trophy)
